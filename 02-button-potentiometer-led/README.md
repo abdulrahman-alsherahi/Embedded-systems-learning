@@ -43,3 +43,7 @@ This Arduino project combines a push button, potentiometer, and LED.
 - `analogWrite()`
 - `map()`
 - Boolean state control
+
+## Circuit
+
+![Button and Potentiometer LED Circuit](IMG_0273.jpeg)
