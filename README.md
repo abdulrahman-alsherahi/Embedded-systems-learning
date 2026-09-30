@@ -1,4 +1,3 @@
-# Embedded-systems-learning
 
 # Embedded Systems Learning
 
