@@ -1,40 +1,40 @@
 # Embedded-systems-learning
 
+# Embedded Systems Learning
 
-# Button Toggle LED
+This repository documents my practical journey learning Embedded Systems with Arduino.
 
-A simple Arduino project where a push button toggles an external LED ON and OFF.
+## Projects
 
-## Components
+### 01 - Button Toggle LED
+A push button toggles an external LED ON and OFF.
+
+### 02 - Button and Potentiometer LED Control
+A push button toggles an LED ON/OFF, while a potentiometer controls its brightness using PWM.
+
+## Hardware
 
 - Arduino UNO R3
-- Push Button
-- LED
-- 220Ω Resistor
 - Breadboard
+- LEDs
+- Push Buttons
+- Potentiometer
+- Resistors
 - Jumper Wires
-
-## Wiring
-
-### Button
-- One side → Digital Pin 2
-- Other side → GND
-
-### LED
-- Digital Pin 8 → 220Ω resistor → LED
-- Other LED leg → GND
-
-## Behavior
-
-- First press → LED ON
-- Second press → LED OFF
-- Every press toggles the LED state
 
 ## Concepts Learned
 
-- Digital input
-- Digital output
+- Digital Input and Output
+- Analog Input
+- PWM
 - `INPUT_PULLUP`
 - `digitalRead()`
 - `digitalWrite()`
+- `analogRead()`
+- `analogWrite()`
+- `map()`
 - Boolean state control
+
+## Goal
+
+My goal is to improve my practical Embedded Systems skills and gradually move from Arduino basics to more advanced microcontrollers such as STM32.
