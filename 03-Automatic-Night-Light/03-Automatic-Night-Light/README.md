@@ -45,3 +45,7 @@ If the light value is above 400, the LED turns off.
 - Using `if / else`
 - Setting a light threshold
 - Controlling an LED automatically
+
+## Circuit
+
+![Automatic Night Light Circuit](circuit.jpg)
