@@ -2,10 +2,6 @@
 
 A simple Arduino project that automatically turns an LED on when the environment becomes dark.
 
-## Circuit
-
-![Automatic Night Light Circuit](circuit.jpg)
-
 ## Components
 
 - Arduino UNO
