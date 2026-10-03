@@ -2,6 +2,10 @@
 
 A simple Arduino project that controls the angle of a servo motor using a potentiometer.
 
+## Circuit
+
+![Automatic Night Light Circuit](circuit.jpg)
+
 ## How It Works
 
 The potentiometer provides an analog value from 0 to 1023.
