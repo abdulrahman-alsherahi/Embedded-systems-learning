@@ -185,7 +185,6 @@ The same concept can later be applied to sensors, motors, displays, fans, and ot
 ## Project Image
 
 ![RGB LED Potentiometer Project](images/rgb-led-project.jpg)
-
 ## Future Improvements
 
 Possible future improvements:
