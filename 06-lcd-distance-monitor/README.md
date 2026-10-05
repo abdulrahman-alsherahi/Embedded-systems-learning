@@ -72,6 +72,8 @@ In this project, I learned how to:
 - Debug wiring problems
 - Build a simple input-processing-output embedded system
 
+![LCD Distance Monitor](lcd_welcome_screen.jpg)
+
 ## System Flow
 
 HC-SR04 Sensor → Arduino UNO → Distance Calculation → LCD Display
