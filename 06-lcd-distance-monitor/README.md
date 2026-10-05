@@ -74,6 +74,7 @@ In this project, I learned how to:
 
 ![LCD Distance Monitor](lcd_welcome_screen.jpg)
 
+![LCD Distance Monitor](lcd_distance_monitor.jpg)
 ## System Flow
 
 HC-SR04 Sensor → Arduino UNO → Distance Calculation → LCD Display
