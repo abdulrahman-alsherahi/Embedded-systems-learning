@@ -29,3 +29,5 @@ A simple Arduino reaction time game using an LCD, push button, LED, and buzzer.
 - Controlling an LED and buzzer.
 - Displaying information on a 16x2 LCD.
 - Using a `while` loop to wait for user input.
+
+![LCD Distance Monitor](reaction-time-game.jpg)
